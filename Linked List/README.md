@@ -99,5 +99,4 @@ Each node stores its data and a reference to the next node — forming a chain o
 
 ### 📜 License
 
-This class is part of the **Java Data Structures Project**
-and is licensed under the **MIT License**.
+This class is part of the [Java Data Structures](https://github.com/Eyadeltaher/java-data-structures) project and licensed under the [MIT License](../LICENSE).
