@@ -22,7 +22,7 @@ Each data structure has its own folder with:
 
 ## ✅ Progress
 - [x] List
-- [ ] Linked List
+- [X] Linked List
 - [ ] Stack
 - [ ] Queue
 - [ ] Tree
