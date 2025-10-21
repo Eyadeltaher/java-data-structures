@@ -9,7 +9,7 @@ public class TestMyList {
         System.out.println(list); // [10, 20, 30]
 
         System.out.println("\n=== Testing add(index, element) ===");
-        list.set(15, 1);  // inserts at index 1 (currently misnamed as set in your code)
+        list.set(15, 1);  
         System.out.println(list); // [10, 15, 20, 30]
 
         System.out.println("\n=== Testing get() ===");
