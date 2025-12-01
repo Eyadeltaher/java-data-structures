@@ -26,8 +26,8 @@ Each data structure has its own folder with:
 - [x] Doubly Linked List
 - [X] Stack
 - [X] Queue
-- [ ] Tree
-- [ ] Graph
+- [x] Binary Tree
+- [X] Heap
 - [ ] More coming soon...
 
 ---
