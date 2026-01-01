@@ -5,7 +5,7 @@ Supports adding, inserting, removing, modifying, and searching elements with aut
 
 ---
 
-## 📌 Features
+##  Features
 - Generic type support (`<T>`)
 - Dynamic resizing when capacity is exceeded
 - Add elements (at end or at specific index)
@@ -17,7 +17,7 @@ Supports adding, inserting, removing, modifying, and searching elements with aut
 
 ---
 
-## 🚀 Usage Example
+##  Usage Example
 
 ```java
 public class Main {
@@ -47,7 +47,7 @@ public class Main {
 
 ---
 
-## ⚠️ Exceptions
+##  Exceptions
 
 * `IllegalArgumentException` – if capacity ≤ 0 or array is `null` in constructor.
 * `IndexOutOfBoundsException` – for invalid index in `get`, `set`, `remove`, or `modify`.
@@ -55,7 +55,8 @@ public class Main {
 
 ---
 
-## 📜 License
+##  License
 
 This class is part of the [Java Data Structures](https://github.com/Eyadeltaher/java-data-structures) project and licensed under the [MIT License](../LICENSE).
+
 
