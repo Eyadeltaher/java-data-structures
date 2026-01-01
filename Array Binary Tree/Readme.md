@@ -6,7 +6,7 @@ The tree is **not a heap** or a binary search tree — it is a **simple complete
 
 ---
 
-## 📌 **Features**
+##  **Features**
 
 * Generic type support (`T`)
 * Array-based storage for nodes
@@ -16,7 +16,7 @@ The tree is **not a heap** or a binary search tree — it is a **simple complete
 
 ---
 
-## 🔧 **Core Methods**
+##  **Core Methods**
 
 ### **1. insert(T value)**
 
@@ -64,7 +64,7 @@ Formula: `(index - 1) / 2`
 
 ---
 
-## 🧪 **Example Usage**
+##  **Example Usage**
 
 ```java
 public class TestArrayBinaryTree {
@@ -93,7 +93,7 @@ public class TestArrayBinaryTree {
 
 ---
 
-## 📌 **Sample Output**
+##  **Sample Output**
 
 ```
 Pre-order traversal:
@@ -108,7 +108,7 @@ Post-order traversal:
 
 ---
 
-## 📌 **Tree Indexing Example**
+##  **Tree Indexing Example**
 
 Array representation of the tree:
 
@@ -133,7 +133,7 @@ Tree structure:
 
 ---
 
-## ⚡ **Notes**
+##  **Notes**
 
 * This implementation is **not a binary search tree** — no ordering between nodes is enforced.
 * Suitable for **complete binary tree representation**.
