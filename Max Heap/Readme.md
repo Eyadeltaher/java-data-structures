@@ -8,9 +8,9 @@ The heap ensures the **Max-Heap Property**:
 
 ---
 
-## 📌 **Features**
+##  **Features**
 
-### ✔ Generic Type Support
+###  Generic Type Support
 
 The heap accepts **any comparable type**:
 
@@ -19,7 +19,7 @@ MaxHeap<Integer> heap = new MaxHeap<>(20);
 MaxHeap<String> heap2 = new MaxHeap<>(10);
 ```
 
-### ✔ Array-Based Implementation
+###  Array-Based Implementation
 
 Children and parent are calculated using index formulas:
 
@@ -33,7 +33,7 @@ This gives **efficient memory layout** and allows **O(1)** access to children an
 
 ---
 
-## 🔧 **Core Operations**
+##  **Core Operations**
 
 ### ### **1. add(T value)**
 
@@ -78,7 +78,7 @@ Used after deletion:
 
 ---
 
-## 🧪 **Test Example**
+##  **Test Example**
 
 ```java
 public class TestMaxHeap {
@@ -114,7 +114,7 @@ public class TestMaxHeap {
 
 ---
 
-## 📤 **Sample Output**
+##  **Sample Output**
 
 ```
 Adding elements...
@@ -139,7 +139,7 @@ Done!
 
 ---
 
-## 🧠 **Why Use a Max-Heap?**
+##  **Why Use a Max-Heap?**
 
 A max-heap is extremely useful for algorithms like:
 
