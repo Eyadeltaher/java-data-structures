@@ -1,24 +1,24 @@
 # **Queue (Array-Based Implementation)**
 
-## 📘 Overview
+##  Overview
 
 This project provides an **Array-Based Queue** implementation in Java.
 It uses a **circular buffer** to efficiently manage elements without shifting them in memory, ensuring **O(1)** enqueue and dequeue operations.
 
 ---
 
-## ⚙️ Features
+##  Features
 
-* ✅ Dynamic queue behavior using a fixed-size array
-* 🔁 Circular index management (`myFront`, `myBack`)
-* ⚡ Constant-time enqueue and dequeue
-* 🧹 Clear and reset functionality
-* 🔍 Contains, Peek, and String representation methods
-* 🚫 Proper handling of overflow and underflow cases
+*  Dynamic queue behavior using a fixed-size array
+*  Circular index management (`myFront`, `myBack`)
+*  Constant-time enqueue and dequeue
+*  Clear and reset functionality
+*  Contains, Peek, and String representation methods
+*  Proper handling of overflow and underflow cases
 
 ---
 
-## 🧩 Class: `MyQueue<T>`
+##  Class: `MyQueue<T>`
 
 ### Key Methods
 
@@ -37,7 +37,7 @@ It uses a **circular buffer** to efficiently manage elements without shifting th
 
 ---
 
-## 🧪 Example Test Output
+##  Example Test Output
 
 ```
 === Testing MyQueue ===
@@ -78,7 +78,7 @@ Size: 3 | Capacity: 10
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 * `myFront` points to the **front** element (for dequeuing).
 * `myBack` points to the **next available** position (for enqueuing).
@@ -92,7 +92,7 @@ This design avoids shifting elements and efficiently uses array space.
 
 ---
 
-## 🧰 Example Usage
+##  Example Usage
 
 ```java
 MyQueue<Integer> queue = new MyQueue<>();
