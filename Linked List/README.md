@@ -1,11 +1,11 @@
-## 🧩 LinkedList
+##  LinkedList
 
 A **custom generic Linked List** data structure implementation in Java.
 Supports adding, inserting, removing, modifying, and searching elements with dynamic node linking.
 
 ---
 
-### 📌 Features
+###  Features
 
 *  **Generic type support** (`<T>`)
 *  **Node-based structure** (each element points to the next)
@@ -19,7 +19,7 @@ Supports adding, inserting, removing, modifying, and searching elements with dyn
 
 ---
 
-### 🚀 Usage Example
+###  Usage Example
 
 ```java
 public class Main {
@@ -56,14 +56,14 @@ public class Main {
 
 ---
 
-### ⚠️ Exceptions
+###  Exceptions
 
 * `IndexOutOfBoundsException` – when index is invalid in `add()`, `set()`, `getItem()`, or `Delete()`.
 * `NullPointerException` – indirectly thrown if you attempt to modify an empty list without checks.
 
 ---
 
-### 🧠 Internal Structure
+###  Internal Structure
 
 Each element is represented by a **Node**:
 
@@ -78,7 +78,7 @@ Each node stores its data and a reference to the next node — forming a chain o
 
 ---
 
-### 🧰 Utility Methods
+###  Utility Methods
 
 | Method               | Description                            |
 | -------------------- | -------------------------------------- |
@@ -97,6 +97,6 @@ Each node stores its data and a reference to the next node — forming a chain o
 
 ---
 
-### 📜 License
+###  License
 
 This class is part of the [Java Data Structures](https://github.com/Eyadeltaher/java-data-structures) project and licensed under the [MIT License](../LICENSE).
