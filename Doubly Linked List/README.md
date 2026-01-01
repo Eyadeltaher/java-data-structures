@@ -1,4 +1,4 @@
-## 📘 Doubly Linked List (Circular)
+##  Doubly Linked List (Circular)
 
 A **generic circular doubly linked list** in Java.
 Each node holds a data value and references to both the **next** and **previous** nodes, forming a continuous circular structure where:
@@ -10,7 +10,7 @@ This makes the list efficient for **bi-directional traversal** and operations on
 
 ---
 
-### ⚙️ Features
+###  Features
 
 ✅ Add elements at any position
 ✅ Append elements to the end
@@ -23,7 +23,7 @@ This makes the list efficient for **bi-directional traversal** and operations on
 
 ---
 
-### 🧱 Class Structure
+###  Class Structure
 
 #### `DoublyLinkedList<T>`
 
@@ -44,7 +44,7 @@ This makes the list efficient for **bi-directional traversal** and operations on
 
 ---
 
-### 🧪 Example Usage
+###  Example Usage
 
 #### `TestDoublyLinkedList.java`
 
@@ -77,7 +77,7 @@ public class TestDoublyLinkedList {
 
 ---
 
-### 💡 Circular Behavior
+###  Circular Behavior
 
 The list is **circular**, meaning:
 
@@ -89,7 +89,7 @@ So traversing forward or backward will never hit `null`.
 ---
 
 
-### 🧠 Time Complexity
+###  Time Complexity
 
 | Operation                  | Average Case | Worst Case |
 | -------------------------- | ------------ | ---------- |
@@ -101,13 +101,13 @@ So traversing forward or backward will never hit `null`.
 
 ---
 
-### 🏗️ Future Enhancements
+###  Future Enhancements
 
 * Add **reverse traversal printing**
 * Optimize traversal direction (forward vs backward) for mid-list operations
 
 ---
 
-### 📜 License
+###  License
 
 This class is part of the [Java Data Structures](https://github.com/Eyadeltaher/java-data-structures) project and licensed under the [MIT License](../LICENSE).
