@@ -1,18 +1,18 @@
 # java-data-structures
 
-📘 A collection of **data structure implementations in Java**.  
+A collection of **data structure implementations in Java**.  
 I upload one new implementation every week to practice core concepts and build a solid reference for learners.
 
 ---
 
-## 📌 Goal
+##  Goal
 - Strengthen problem-solving skills.
 - Learn and implement data structures from scratch.
 - Share clean and well-documented Java code.
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 Each data structure has its own folder with:
 - Java implementation file(s).
 - Example usage in a `main()` method.
@@ -20,7 +20,7 @@ Each data structure has its own folder with:
 
 ---
 
-## ✅ Progress
+##  Progress
 - [x] List
 - [X] Linked List
 - [x] Doubly Linked List
@@ -32,7 +32,7 @@ Each data structure has its own folder with:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/Eyadeltaher/java-data-structures
@@ -47,6 +47,6 @@ Each data structure has its own folder with:
 
 ---
 
-## 📖 License
+##  License
 
 This project is open source under the [MIT License](LICENSE).
