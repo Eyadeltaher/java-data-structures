@@ -12,14 +12,14 @@ This makes the list efficient for **bi-directional traversal** and operations on
 
 ###  Features
 
-✅ Add elements at any position
-✅ Append elements to the end
-✅ Delete elements by index or value
-✅ Retrieve or update elements
-✅ Check for existence of a value
-✅ Clear the list
-✅ Circular linking maintained automatically
-✅ Generic — works with any data type
+ - Add elements at any position
+ - Append elements to the end
+ - Delete elements by index or value
+ - Retrieve or update elements
+ - Check for existence of a value
+ - Clear the list
+ - Circular linking maintained automatically
+ - Generic — works with any data type
 
 ---
 
